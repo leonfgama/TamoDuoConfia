@@ -1,0 +1,12 @@
+C:\GIT\TamoDuoConfia\TamoDuoConfia.Web\bin\TamoDuoConfia.Web.dll
+C:\GIT\TamoDuoConfia\TamoDuoConfia.Web\bin\TamoDuoConfia.Web.pdb
+C:\GIT\TamoDuoConfia\TamoDuoConfia.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\GIT\TamoDuoConfia\TamoDuoConfia.Web\bin\EntityFramework.xml
+C:\GIT\TamoDuoConfia\TamoDuoConfia.Web\bin\EntityFramework.SqlServer.xml
+C:\GIT\TamoDuoConfia\TamoDuoConfia.Web\bin\Newtonsoft.Json.xml
+C:\GIT\TamoDuoConfia\TamoDuoConfia.Web\bin\System.Web.Optimization.xml
+C:\GIT\TamoDuoConfia\TamoDuoConfia.Web\bin\Microsoft.Web.Infrastructure.xml
+C:\GIT\TamoDuoConfia\TamoDuoConfia.Web\bin\pl\System.Web.Optimization.resources.dll
+C:\GIT\TamoDuoConfia\TamoDuoConfia.Web\obj\Debug\TamoDuoConfia.Web.csprojResolveAssemblyReference.cache
+C:\GIT\TamoDuoConfia\TamoDuoConfia.Web\obj\Debug\TamoDuoConfia.Web.dll
+C:\GIT\TamoDuoConfia\TamoDuoConfia.Web\obj\Debug\TamoDuoConfia.Web.pdb
